@@ -2,8 +2,8 @@
 
 A lightweight, real-time pupil detection and ocular metric analysis application styled as a modern mobile smartphone interface. Built with **Python**, **OpenCV**, **CustomTkinter**, and **NumPy**.
 
-![App Style](<img width="530" height="1020" alt="Screenshot 2026-09-29 203852" src="https://github.com/user-attachments/assets/15352229-cc35-43b2-8989-d813dbb493e4" />)
-![Python](<img width="1916" height="1136" alt="Screenshot 2026-09-29 202144" src="https://github.com/user-attachments/assets/a1715e7e-24c4-4ce7-b833-1209c7ffdac1" />)
+![App Style](https://img.shields.io/badge/UI_Style-Mobile_Portrait_(420x780)-blue)
+![Python](https://img.shields.io/badge/Python-3.8+-green)
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.x-orange)
 ![License](https://img.shields.io/badge/License-MIT-brightgreen)
 
